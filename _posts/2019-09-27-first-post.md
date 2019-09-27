@@ -1,5 +1,5 @@
 ---
 title: "first-ever-post"
-Date: 2019-09-27
+date: 2019-09-27
 ---
 

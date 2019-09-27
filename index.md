@@ -1,3 +1,4 @@
 # Welcome to my blog
-
-I'm glad you are here. I plan to talk about ...
+## The Prototype
+###### The First Section
+Building a website for the first time isn't so hard
